@@ -50,7 +50,7 @@ Para dúvidas, sugestões ou colaborações, envie um e-mail para:
 ## 🌐 Publicado com GitHub Pages
 
 Acesse o site completo em:  
-**[https://guilhermealbuquerque9.github.io/Retropixel](https://guilhermealbuquerque9.github.io/retropixel-site)**
+**[https://guilhermealbuquerque9.github.io/Retropixel](https://guilhermealbuquerque9.github.io/Retropixel)**
 
 ---
 
