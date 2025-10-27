@@ -50,9 +50,10 @@ Para dúvidas, sugestões ou colaborações, envie um e-mail para:
 ## 🌐 Publicado com GitHub Pages
 
 Acesse o site completo em:  
-**[https://guilhermealbuquerque9.github.io/Retropixel](https://guilhermealbuquerque9.github.io/Retropixel)**
+**[http://www.retropixel.com.br](http://www.retropixel.com.br)**
 
 ---
 
 Feito com amor, nostalgia e muitos pixels.  
 **Retropixel™ — Se é retrô, é Retropixel™.**
+- © Retropixel™, 2025. Todos os direitos reservados.
