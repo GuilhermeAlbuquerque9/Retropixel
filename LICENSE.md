@@ -23,7 +23,7 @@ Nada nesta licença transfere ao usuário qualquer direito de propriedade; apena
 **4. Uso Comercial**
 
 Qualquer uso comercial, inclusive parcial, requer contrato ou autorização formal assinada pela Retropixel™.
-Pedidos de autorização devem ser enviados para: [insira seu e-mail de contato corporativo].
+Pedidos de autorização devem ser enviados para: [Retropixel.10@hotmail.com](Retropixel.10@hotmail.com).
 
 **5. Isenção de Garantia**
 
