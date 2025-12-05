@@ -5,42 +5,66 @@
   <title>Retropixel™ — Blog</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
       margin: 0;
-      padding: 0;
+      font-family: 'Courier New', monospace;
+      background-color: #ffffff;
+      color: #333333;
+      text-align: center;
     }
     header {
-      background: #222;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
+      background: linear-gradient(to right, #ffcc00, #ff6600, #ff00cc);
+      padding: 30px;
+      border-bottom: 5px solid #00aaff;
+    }
+    h1 {
+      font-size: 40px;
+      margin: 0;
+      color: #ffffff;
+      text-shadow: 2px 2px #000000;
+    }
+    p.slogan {
+      font-size: 20px;
+      color: #ffffff;
+      margin-top: 10px;
+      font-style: italic;
+      text-shadow: 1px 1px #000000;
     }
     nav {
-      background: #444;
-      padding: 10px;
-      text-align: center;
+      background: linear-gradient(to right, #00ffff, #00ff99, #00ccff);
+      padding: 15px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      border-bottom: 4px solid #ff00cc;
     }
     nav a {
-      color: #fff;
+      background-color: #ffffff;
+      color: #000000;
       text-decoration: none;
-      margin: 0 10px;
+      padding: 14px 28px;
+      border: 3px solid #333333;
+      font-size: 16px;
+      border-radius: 0;
+      box-shadow: 3px 3px #cccccc;
+      transition: 0.3s;
     }
-    .container {
-      max-width: 900px;
-      margin: 20px auto;
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    nav a:hover {
+      background-color: #ffcc00;
+      color: #000000;
+      border-color: #ff6600;
     }
-    h1 { text-align: center; }
-    .post {
-      border-bottom: 1px solid #ddd;
-      padding: 15px 0;
+    main {
+      padding: 50px 20px;
     }
-    .post:last-child { border-bottom: none; }
-    .post small { color: #666; }
+    h2 {
+      color: #ff00cc;
+      font-size: 26px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+      color: #444444;
+    }
   </style>
 </head>
 <body>
