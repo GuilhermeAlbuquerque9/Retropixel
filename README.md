@@ -9,10 +9,9 @@ Site oficial da empresa **Retropixel™**, criado por Guilherme Albuquerque — 
 
 Retropixel™ é uma pequena empresa de tecnologia retrô-analógica que faz aplicativos, sistemas, sites e outros. Tudo de uma maneira retrô que você vai adorar! 💾 Aqui neste site você encontra 🌐:
 
-- Interface colorida com fonte Courier New
+- Interface retrô com fonte Courier New
 - Navegação simples e vibrante
-- Lojinha com produtos físicos e digitais
-- Pacote Batch com 5 utilitários em script Batch
+- Loja com produtos físicos e digitais
 - Contato direto via e-mail
 
 ---
@@ -21,22 +20,11 @@ Retropixel™ é uma pequena empresa de tecnologia retrô-analógica que faz apl
 
 - `index.html` — Página inicial
 - `Sobre.html` — História e origem da Retropixel™
-- `Contato.html` — Informações de contato e botão de e-mail
 - `Lojinha.html` — Escolha entre produtos físicos e digitais
+- `Blog.html` — Blog com atualizações sobre os nossos produtos
+- `Contato.html` — Informações de contato e botão de e-mail
 - `Produtos-fisicos.html` — Disquetes, camisetas e adesivos
-- `Produtos-digitais.html` — Wallpapers, temas e scripts retrô
-- `Downloads/Pacote_Batch.zip` — Pacote com 5 scripts Batch executáveis
-- `Downloads/RetroNet.zip` — Navegador de Internet/Web retrô e simples que acessa sites
-
----
-
-## 💾 Pacote Batch incluído
-
-1. **Central de Aplicativos 1.0** — Abre apps clássicos do Windows  
-2. **Adivinhe o Número** — Joguinho com 3 níveis de dificuldade  
-3. **Batch Musical 1.0** — Toca músicas via PowerShell beeps  
-4. **Batch Browser 1.0** — Navegador WWW retrô em script Batch  
-5. **Linux Terminal no Windows** — Executa o terminal do Ubuntu Linux via WSL (Windows Subsystem for Linux)
+- `Produtos-digitais.html` — Wallpapers, aplicativos e sites
 
 ---
 
@@ -53,7 +41,6 @@ Acesse o site completo em:
 **[http://www.retropixel.com.br](http://www.retropixel.com.br)**
 
 ---
-
-Feito com amor, nostalgia e muitos pixels.  
+  
 **Retropixel™ — Se é retrô, é Retropixel™.**
-- © Retropixel™, 2025. Todos os direitos reservados.
+© Retropixel™, 2025-2026. Todos os direitos reservados.
