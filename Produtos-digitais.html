@@ -1,98 +1,25 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<link rel="icon" type="image/png" href="Logo_da_Retropixel.png">
+<link rel="icon" type="image/png" href="Retropixel_logo.png">
+
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Retropixel™ — Produtos digitais</title>
-    <style>
-    body {
-      margin: 0;
-      font-family: 'Courier New', monospace;
-      background-color: #ffffff;
-      color: #333333;
-      text-align: center;
-    }
-    header {
-      background: linear-gradient(to right, #ffcc00, #ff6600, #ff00cc);
-      padding: 30px;
-      border-bottom: 5px solid #00aaff;
-    }
-    h1 {
-      font-size: 36px;
-      margin: 0;
-      color: #ffffff;
-      text-shadow: 2px 2px #000000;
-    }
-    nav {
-      background: linear-gradient(to right, #00ffff, #00ff99, #00ccff);
-      padding: 15px;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      border-bottom: 4px solid #ff00cc;
-    }
-    nav a {
-      background-color: #ffffff;
-      color: #000000;
-      text-decoration: none;
-      padding: 14px 28px;
-      border: 3px solid #333333;
-      font-size: 16px;
-      border-radius: 0;
-      box-shadow: 3px 3px #cccccc;
-      transition: 0.3s;
-    }
-    nav a:hover {
-      background-color: #ffcc00;
-      border-color: #ff6600;
-    }
-    main {
-      padding: 50px 20px;
-    }
-    h2 {
-      color: #0077cc;
-      font-size: 24px;
-      margin-bottom: 30px;
-    }
-    .produto {
-      margin: 30px auto;
-      max-width: 600px;
-      padding: 20px;
-      border: 3px dashed #00aaff;
-      background-color: #f9f9f9;
-      box-shadow: 4px 4px #ccc;
-    }
-    .produto h3 {
-      color: #ff6600;
-    }
-    .produto p {
-      color: #444;
-    }
-    .botao-baixar {
-  background-color: #00cc66;
-  color: #ffffff;
-  font-family: 'Courier New', monospace;
-  padding: 10px 20px;
-  border: 3px solid #00994d;
-  font-size: 16px;
-  cursor: pointer;
-  box-shadow: 3px 3px #cccccc;
-  text-decoration: none;
-  display: inline-block;
-  margin-top: 10px;
-}
-.botao-baixar:hover {
-  background-color: #00994d;
-  border-color: #007733;
-}
-  </style>
+
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+
   <header>
-    <h1>Retropixel™</h1>
+    <div class="logo-container">
+      <img src="Retropixel_logo.png" alt="Logo da Retropixel" class="logo">
+      <h1>Retropixel™</h1>
+    </div>
   </header>
+
   <nav>
     <a href="index.html">Início</a>
     <a href="Sobre.html">Sobre</a>
@@ -100,57 +27,144 @@
     <a href="Blog.html">Blog</a>
     <a href="Contato.html">Contato</a>
   </nav>
+
   <main>
+
     <h2>Produtos Digitais</h2>
 
     <div class="produto">
       <h3>💬 Retropixel Messenger™</h3>
-      <p>Um mensageiro retrô que relembra os tempos dourados do MSN Messenger® com estilo e nostalgia.</p>
-      <a href="https://guilhermealbuquerque9.github.io/Retropixel-Messenger" target="_blank" class="botao-pontobat">Retropixel Messenger™</a>
+
+      <p>
+        Um mensageiro retrô que relembra os tempos dourados
+        do MSN Messenger® com estilo e nostalgia.
+      </p>
+
+      <a
+        href="https://guilhermealbuquerque9.github.io/Retropixel-Messenger"
+        target="_blank"
+        class="botao-pontobat"
+      >
+        Retropixel Messenger™
+      </a>
     </div>
 
     <div class="produto">
       <h3>👥 Retroping™</h3>
-      <p>A melhor rede social para quem quer se livrar dos vídeos curtos infinitos. Publique seus pensamentos e status com segurança e estilo retrô!</p>
-      <a href="https://guilhermealbuquerque9.github.io/Retroping" target="_blank" class="botao-pontobat">Retroping™</a>
+
+      <p>
+        A melhor rede social para quem quer se livrar
+        dos vídeos curtos infinitos.
+        Publique seus pensamentos e status
+        com segurança e estilo retrô!
+      </p>
+
+      <a
+        href="https://guilhermealbuquerque9.github.io/Retroping"
+        target="_blank"
+        class="botao-pontobat"
+      >
+        Retroping™
+      </a>
     </div>
 
     <div class="produto">
       <h3>🌐 RetroNet™</h3>
-      <p>Um navegador de Internet retrô e seguro para acessar sites da Web.</p>
-        <p>⚠ AVISO: Por enquanto, estamos tendo problemas com este download. Caso queira baixar, entre em contato conosco e enviaremos o arquivo.</p>
-      <!-- <a href="Downloads/RetroNet.zip" download class="botao-baixar">📥 Baixar</a> -->
+
+      <p>
+        Um navegador de Internet retrô e seguro
+        para acessar sites da Web.
+      </p>
+
+      <p>
+        ⚠ AVISO:
+        Por enquanto, estamos tendo problemas
+        com este download.
+        Caso queira baixar,
+        entre em contato conosco
+        e enviaremos o arquivo.
+      </p>
+
+      <!--
+      <a href="Downloads/RetroNet.zip" download class="botao-baixar">
+        📥 Baixar
+      </a>
+      -->
     </div>
 
     <div class="produto">
       <h3>💻 Retropixel Office™</h3>
-      <p>O pacote Office da Retropixel™, com aplicativos que vão com certeza te ajudar no dia-a-dia do trabalho! Disponível em site, aplicativo desktop e mídia física.</p>
-        <p>⚠ AVISO: Por enquanto, o Retropixel Office™ não está disponível em aplicativo desktop ou mídia física, mas ele estará logo logo. Sua versão em mídia física estará na página "Produtos físicos".</p>
-      <a href="https://guilhermealbuquerque9.github.io/Retropixel-Office" target="_blank" class="botao-pontobat">Retropixel Office™</a>
+
+      <p>
+        O pacote Office da Retropixel™,
+        com aplicativos que vão com certeza
+        te ajudar no dia-a-dia do trabalho!
+        Disponível em site,
+        aplicativo desktop
+        e mídia física.
+      </p>
+
+      <p>
+        ⚠ AVISO:
+        Por enquanto,
+        o Retropixel Office™ não está disponível
+        em aplicativo desktop ou mídia física,
+        mas ele estará logo logo.
+        Sua versão em mídia física estará
+        na página "Produtos físicos".
+      </p>
+
+      <a
+        href="https://guilhermealbuquerque9.github.io/Retropixel-Office"
+        target="_blank"
+        class="botao-pontobat"
+      >
+        Retropixel Office™
+      </a>
     </div>
 
     <div class="produto">
       <h3>📁 Pacote de sistemas em scripts Batch</h3>
-      <p>5 sistemas em script Batch ajudar na automação do dia-a-dia.</p>
-      <a href="Downloads/Pacote_Batch.zip" download class="botao-baixar">📥 Baixar</a>
+
+      <p>
+        5 sistemas em script Batch
+        para quem está entediado(a).
+      </p>
+
+      <a
+        href="Downloads/Pacote_Batch.zip"
+        download
+        class="botao-baixar"
+      >
+        📥 Baixar
+      </a>
     </div>
 
     <div class="produto">
       <h3>💾 RP-DOS™ 1.0</h3>
-      <p>O sistema operacional DOS oficial da Retropixel™ chegou com estilo de terminal! Com comandos simples e úteis, o RP-DOS™ relembra os tempos dourados do MS-DOS®, trazendo um DOS real, funcional e prontinho para uso.</p>
-      <a href="Downloads/RP-DOS_1.0.zip" download class="botao-baixar">📥 Baixar</a>
+
+      <p>
+        O sistema operacional DOS oficial da Retropixel™
+        chegou com estilo de terminal!
+        Com comandos simples e úteis,
+        o RP-DOS™ relembra os tempos dourados
+        do MS-DOS®,
+        trazendo um DOS real,
+        funcional e pronto para uso.
+      </p>
+
+      <a
+        href="Downloads/RP-DOS_1.0.zip"
+        download
+        class="botao-baixar"
+      >
+        📥 Baixar
+      </a>
     </div>
 
-    <p>✨🚀 Mais produtos em breve! 🚀✨</p>
+    <p>Mais produtos em breve!</p>
+
   </main>
+
 </body>
 </html>
-
-
-
-
-
-
-
-
-
