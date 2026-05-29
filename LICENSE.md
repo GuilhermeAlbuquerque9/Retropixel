@@ -45,5 +45,3 @@ A Retropixel™ se reserva o direito de atualizar, modificar ou substituir esta 
 **8. Aceitação**
 
 Ao acessar ou utilizar qualquer conteúdo da Retropixel™, o usuário declara ter lido, compreendido e aceito integralmente os termos desta licença.
-
-Ao acessar ou utilizar qualquer conteúdo da Retropixel™, o usuário declara ter lido, compreendido e aceito integralmente os termos desta licença.
