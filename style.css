@@ -261,3 +261,76 @@ footer a:hover {
   }
 
 }
+
+.rss-box{
+display:flex;
+align-items:center;
+gap:15px;
+
+padding:14px 18px;
+
+margin-bottom:25px;
+
+background:
+linear-gradient(
+180deg,
+rgba(255,255,255,.92),
+rgba(235,245,255,.92)
+);
+
+border:1px solid #c7dfff;
+
+border-radius:12px;
+
+box-shadow:
+0 2px 8px rgba(0,0,0,.08);
+}
+
+.rss-icon{
+width:40px;
+height:40px;
+flex-shrink:0;
+}
+
+.rss-text{
+flex:1;
+}
+
+.rss-text strong{
+display:block;
+margin-bottom:4px;
+}
+
+.rss-text p{
+font-size:.9rem;
+margin:0;
+}
+
+.rss-buttons{
+display:flex;
+gap:8px;
+}
+
+.rss-copy-btn,
+.rss-open-btn{
+padding:8px 12px;
+
+font-size:.85rem;
+
+text-decoration:none;
+
+border:none;
+border-radius:8px;
+
+cursor:pointer;
+}
+
+.rss-copy-btn{
+background:#ff8a00;
+color:white;
+}
+
+.rss-open-btn{
+background:#3f9cff;
+color:white;
+}
