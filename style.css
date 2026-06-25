@@ -272,18 +272,14 @@ padding:14px 18px;
 margin-bottom:25px;
 
 background:
-linear-gradient(
-180deg,
-rgba(255,255,255,.92),
-rgba(235,245,255,.92)
-);
+linear-gradient( 180deg, rgba(231, 253, 255, 0.92), rgba(196, 224, 251, 0.92) );
 
 border:1px solid #c7dfff;
 
 border-radius:12px;
 
 box-shadow:
-0 2px 8px rgba(0,0,0,.08);
+0 2px 8px rgba(0, 0, 0, 0.73);
 }
 
 .rss-icon{
