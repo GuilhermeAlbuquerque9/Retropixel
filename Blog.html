@@ -48,7 +48,7 @@
       </p>
 
       <p class="rss-meta">
-        📡 Assinantes RSS: <span id="rssCount">001</span><br>
+        <!-- 📡 Assinantes RSS: <span id="rssCount">000</span><br> -->
         ⏱ Última atualização: <span id="lastUpdate"></span>
       </p>
 
@@ -166,7 +166,7 @@ async function atualizarRSSInfo() {
     let count = localStorage.getItem("rssSubscribers");
 
     if (!count) {
-      count = 128; // base inicial estilo retro
+      count = 000; // base inicial estilo retro
     }
 
     // simula crescimento leve e consistente
@@ -182,7 +182,7 @@ async function atualizarRSSInfo() {
       "indisponível";
 
     document.getElementById("rssCount").innerText =
-      "001";
+      "000";
 
   }
 }
