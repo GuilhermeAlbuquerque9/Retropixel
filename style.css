@@ -334,3 +334,17 @@ color:white;
 background:#3f9cff;
 color:white;
 }
+
+/* =========================
+   RSS META (NOVA PARTE)
+========================= */
+
+.rss-meta{
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+  background: #f0f8ff;
+  padding: 8px;
+  border: 2px solid #00aaff;
+  display: inline-block;
+}
